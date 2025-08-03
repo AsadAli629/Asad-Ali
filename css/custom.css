@@ -826,6 +826,7 @@ header .navbar.sticky-header{
 
 .our-team{
 	padding: 100px 0;
+	display: none;
 }
 
 .team-single{
@@ -901,6 +902,7 @@ header .navbar.sticky-header{
 .pricing{
 	padding: 100px 0;
 	background: #151515;
+	display: none;
 }
 
 .pricing-single{

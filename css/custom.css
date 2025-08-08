@@ -16,7 +16,8 @@ body{
 }
 
 :root {
-  --primary-color: #4da6ff
+  /* --primary-color: #4da6ff */
+  --primary-color : #03fc1c
 }
 
 
@@ -45,12 +46,12 @@ a:focus{
 }
 
 ::-moz-selection{
-	background: #ff9f9b;
+	background: var(--primary-color);
 	color: #fff;
 }
 
 ::selection{
-	background: #ff9f9b;
+	background: var(--primary-color);
 	color: #fff;
 }
 
